@@ -5,4 +5,4 @@ Projeto em React da "Trilha React" da NLW Unite da RocketSeat
 -JS
 -ReactJS
 -Tailwind
--TypeScripts
+-TypeScript
